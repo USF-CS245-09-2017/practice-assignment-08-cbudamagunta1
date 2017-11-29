@@ -1,6 +1,3 @@
-//TOPOLOGICAL SORT 
-//FIRST FOR LOOP DOESN'T ITERATE
-
 import java.util.ArrayList;
 
 public class GraphAdjMatrix implements Graph{
